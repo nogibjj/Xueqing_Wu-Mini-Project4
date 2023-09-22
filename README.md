@@ -2,12 +2,24 @@
 This is the git template.
 
 ## Purpose
-The goal of this assignment is to create a github template so that everytime we can create a new respository base on this template. The template includes devcontiner, README, requirement, gitignore, main file, test_main file. 
+The goal of this project is to set up Github actions matrix test. The purpose of this testing is to ensure that functions are working consistently within multiple Python versions. In this project, I'm testing for 
+-Python 3.7
+-Python 3.8
+-Python 3.9
+-Python 3.10
+-Python 3.11
+
+## Items Included
+-Github actions (yml)
+-Makefile
+-Requirements
+-main.py
+-test_main.py
 
 ## Steps
-1. I created a template based on professor Noah Gift's template by watching his o'Riley video. Then I made some slight changes on Makefile and requirements based on the potential softwares I will use in the future
-2. Created a main file to include funcitons and code
-3. Created a test_main file to test the main file
+1. Clone the template from the first week's project
+1. Modify the Github actions to include testing for Python versions ()
+1. Test with main.py and test_main.py
 
 ## Check Formats and Test Errors
 <img width="1072" alt="Screen Shot 2023-09-07 at 2 52 19 PM" src="https://github.com/XueqingWu/Fall-2023-706/assets/47194238/0784a5dd-cfdf-4b22-8f1f-7841cd13fd75">
