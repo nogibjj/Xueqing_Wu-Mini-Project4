@@ -1,5 +1,5 @@
 # Fall-2023-706 Mini Project 4
-This is the git template.
+
 
 ## Purpose
 The goal of this project is to set up Github actions matrix test. A scenorio would be different teams are using different version of Python, and functions work differently in each version. The purpose of this testing is to ensure that functions are working consistently within multiple Python versions. 
@@ -30,3 +30,4 @@ In this project, I'm testing for
 ### Check for Errors
 <img width="776" alt="Make Test Result" src="https://github.com/nogibjj/Xueqing_Wu-Mini-Project4/assets/47194238/28f87e5c-ac25-42ef-a0ec-a3f4c179b7a7">
 
+[![CI](https://github.com/nogibjj/Xueqing_Wu-Mini-Project4/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Xueqing_Wu-Mini-Project4/actions/workflows/cicd.yml)
